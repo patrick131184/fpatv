@@ -65,6 +65,12 @@ title: Home
                 {% include postbox.html %}
 
               {% endunless %}
+		
+	      {% unless post.featured == false %}
+
+                {% include postbox.html %}
+
+              {% endunless %}
 
             {% endfor %}
 
