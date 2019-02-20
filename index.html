@@ -60,11 +60,11 @@ title: Home
 
             {% for post in paginator.posts %}
 
-           <!-- {% unless post.featured == true %}-->
+              {% unless post.featured == true %}
 
                 {% include postbox.html %}
 
-           <!-- {% endunless %}-->
+              {% endunless %}
 
             {% endfor %}
 
