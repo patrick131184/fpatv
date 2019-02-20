@@ -8,4 +8,5 @@ featured: false
 Last time flying without cold fingers.
 Looking forward for next spring!
 
-<iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/gA2M-cIA2TA?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/gA2M-cIA2TA?rel=0&showinfo=0">
+</iframe>
