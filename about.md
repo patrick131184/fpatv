@@ -4,7 +4,9 @@ title: About
 comments: true
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+My Name is Patrick, i am born in 1984 (don\`t want to Update my age every year) and i live in germany.
+I started building my first quad in spring 2018, learned flying in Velocidrone, Liftoff and some other sims.
+My first line of sight flight ended about 10 seconds after starting. My quad jsut fell of the air (i used oneshot and forgot to calibrate the ecs's)
 
 **License & Download**
 
