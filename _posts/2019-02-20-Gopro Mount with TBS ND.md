@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Martian GoPro Mount with TBS ND Filter holder"
-categories: [ Gopro, 3D Print]
 image: assets/images/3d_print_gopro_nd_filter.png
 featured: true
 ---
