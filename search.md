@@ -3,12 +3,7 @@ layout: page
 title: Search
 image: assets/images/search.jpg
 ---
-
-
-<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
-			<!-- End Featured Image -->
-      
+     
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
