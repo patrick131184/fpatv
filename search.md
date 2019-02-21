@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Search
-image: assets/images/search.jpg
 ---
-     
+
+<img src="{{ site.baseurl }}/assets/images/search.jpg">
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
