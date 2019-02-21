@@ -6,7 +6,7 @@ meta_description: "Projects and Blogs..."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/FPatV3'
+baseurl: '/fpatv'
 email: 'fpatv@gmx.de'
 #google_analytics: 'UA-46278016-1'
 disqus: 'FPatV Website'
@@ -18,8 +18,8 @@ authors:
     name: Patrick
     display_name: FPatV
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: patv@gmx.de
-    web: https://patrick131184.github.io/FPatV3/
+    email: fpatv@gmx.de
+    web: https://patrick131184.github.io/fpatv/
     description: "Description of Author"
   
 
