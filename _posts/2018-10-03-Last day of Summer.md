@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Last Day of Summer :("
-categories: [ Gopro, 3D Print]
 image: assets/images/04-10-_2018_07-28-19.jpg
 featured: false
 ---
