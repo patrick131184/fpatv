@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Search
 image: assets/images/search.jpg
 ---
