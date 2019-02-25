@@ -4,11 +4,11 @@ title: Home
 ---
 
 <!-- Home Jumbotron
-================================================== -->    
+================================================== -->
 <section class="intro full-width">
     <div class="wrapintro">
         <img src="{{ site.baseurl }}/assets/images/FPatV.gif" width="200">
-        <h2 class="lead">All about FPV and my recent projects...</h2>    
+        <h2 class="lead">All about FPV and my recent projects....</h2>    
     </div>
 </section>
 
@@ -42,18 +42,18 @@ title: Home
 {% if paginator.previous_page > 0 %}
 <div id="jumptopageof"></div>
 {% endif %}
-{% endif %}    
+{% endif %}
 
 <section class="recent-posts row">
-	
+
    <div class="col-sm-4">
         {% include sidebar.html %}
    </div>
-	
+
     <div class="col-sm-8">
 
         <div class="section-title">
-            <h2><span>All Stories</span></h2>    
+            <h2><span>All Stories</span></h2>
         </div>
 
         <div class="masonrygrid row listrecent">
@@ -65,11 +65,11 @@ title: Home
                 {% include postbox.html %}
 
               {% endunless %}
-		
-	      
+
+
             {% endfor %}
 
-        </div> 
+        </div>
 
         <!-- Pagination -->
         <div class="bottompagination">
